@@ -1,6 +1,8 @@
 # Molitvoslov
 <h1 align="center">Православный <a href="https://apps.rustore.ru/app/ru.orex.molitvoslov" target="_blank">Молитвослов</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
  
 #
  Содержит :
