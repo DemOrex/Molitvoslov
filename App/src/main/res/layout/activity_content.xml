@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ContentActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <LinearLayout
+            android:id="@+id/linerButton"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:orientation="vertical"
+            android:visibility="visible">
+
+
+            <Button
+                android:id="@+id/content_button19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/content_button19"
+                android:textSize="20sp"
+                android:visibility="visible"/>
+
+            <Button
+                android:id="@+id/content_button20"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/content_button20"
+                android:textSize="20sp"
+                android:visibility="visible"/>
+
+            <Button
+                android:id="@+id/content_button25"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/content_button25"
+                android:textSize="20sp"
+                android:visibility="visible"/>
+
+            <Button
+                android:id="@+id/content_button18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/content_button18"
+                android:textSize="20sp"
+                android:visibility="visible"/>
+
+            <Button
+                android:id="@+id/content_button14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/content_button14"
+                android:textSize="20sp"
+                android:visibility="visible"/>
+
+            <Button
+                android:id="@+id/content_button24"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/content_button24"
+                android:textSize="20sp"
+                android:visibility="visible"/>
+
+            <Button
+                android:id="@+id/content_button23"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/content_button23"
+                android:textSize="20sp"
+                android:visibility="visible"/>
+
+            <Button
+                android:id="@+id/content_button1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/content_button1"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/content_button2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/content_button2"
+                android:textSize="20sp"/>
+
+            <Button
+                android:id="@+id/content_button3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/content_button3"
+                android:textSize="20sp"/>
+
+            <Button
+                android:id="@+id/content_button4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/content_button4"
+                android:textSize="20sp"/>
+
+            <Button
+                android:id="@+id/content_button5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/content_button5"
+                android:textSize="20sp"/>
+
+            <Button
+                android:id="@+id/content_button6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/content_button6"
+                android:textSize="20sp"/>
+
+            <Button
+                android:id="@+id/content_button7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/content_button7"
+                android:textSize="20sp"/>
+
+            <Button
+                android:id="@+id/content_button15"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/content_button15"
+                android:textSize="20sp"
+                android:visibility="visible"/>
+
+            <Button
+                android:id="@+id/content_button8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/content_button8"
+                android:textSize="20sp"/>
+
+            <Button
+                android:id="@+id/content_button9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/content_button9"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/content_button10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/content_button10"
+                android:textSize="20sp"/>
+
+            <Button
+                android:id="@+id/content_button11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/content_button11"
+                android:textSize="20sp"/>
+
+            <Button
+                android:id="@+id/content_button12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/content_button12"
+                android:textSize="20sp"
+                android:visibility="visible"/>
+
+            <Button
+                android:id="@+id/content_button13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/content_button13"
+                android:textSize="20sp"
+                android:visibility="visible"/>
+
+
+
+
+            <Button
+                android:id="@+id/content_button16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/content_button16"
+                android:textSize="20sp"
+                android:visibility="visible"/>
+
+            <Button
+                android:id="@+id/content_button17"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/content_button17"
+                android:textSize="20sp"
+                android:visibility="visible"/>
+
+            <Button
+                android:id="@+id/content_button21"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/content_button21"
+                android:textSize="20sp"
+                android:visibility="visible"/>
+
+            <Button
+                android:id="@+id/content_button22"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/content_button22"
+                android:textSize="20sp"
+                android:visibility="visible"/>
+
+            <Button
+                android:id="@+id/content_button26"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/content_button26"
+                android:textSize="20sp"
+                android:visibility="visible"/>
+            <Button
+                android:id="@+id/content_button27"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/content_button27"
+                android:textSize="20sp"
+                android:visibility="visible"/>
+            <Button
+                android:id="@+id/content_button28"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/content_button28"
+                android:textSize="20sp"
+                android:visibility="visible"/>
+        </LinearLayout>
+
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>
